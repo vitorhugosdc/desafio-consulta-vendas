@@ -1,6 +1,6 @@
 # Sistema de Vendas
 
-Sistema desenvolvido como desafio para obtenção de certificado do curso Java Spring Professional da [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Sistema desenvolvido como desafio 4/5 para obtenção de certificado do curso Java Spring Professional da [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 Este sistema gerencia vendas (Sale) e vendedores (Seller). Cada venda está associada a um vendedor, e um vendedor pode ter várias vendas. O sistema permite consultas de relatórios de vendas e sumário de vendas por vendedor.
 
